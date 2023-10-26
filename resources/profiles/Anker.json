@@ -1,0 +1,32 @@
+{
+  "vendor": {
+    "undefined": {}
+  },
+  "presets": {
+    "*common*": {},
+    "*0.10mm*": {},
+    "*0.20mm*": {},
+    "*0.30mm*": {},
+    "0.10 mm HIGHDETAIL (0.4 mm nozzle) @ANKER": {},
+    "0.20 mm NORMAL (0.4 mm nozzle) @ANKER": {},
+    "0.30 mm SUPERDRAFT (0.4 mm nozzle) @ANKER": {}
+  },
+  "printers": {
+    "M5": {},
+    "*common*": {},
+    "*M5*": {},
+    "AnkerMake M5 (0.4 mm nozzle)": {}
+  },
+  "filaments": {
+    "*common*": {},
+    "*PLA*": {},
+    "*PLA+*": {},
+    "*PET*": {},
+    "*ABS*": {},
+    "Generic PLA @ANKER": {},
+    "Generic PLA+ @ANKER": {},
+    "Generic PETG @ANKER": {},
+    "Generic ABS @ANKER": {}
+  },
+  "sla_materials": {}
+}

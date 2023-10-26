@@ -1,0 +1,30 @@
+{
+  "vendor": {
+    "undefined": {}
+  },
+  "presets": {
+    "*common*": {},
+    "*0.12mm*": {},
+    "*0.20mm*": {},
+    "*0.25mm*": {},
+    "0.12mm DETAIL @ULTIMAKER2": {},
+    "0.20mm NORMAL @ULTIMAKER2": {},
+    "0.25mm DRAFT @ULTIMAKER2": {}
+  },
+  "printers": {
+    "ULTIMAKER2": {},
+    "*common*": {},
+    "Ultimaker 2": {}
+  },
+  "filaments": {
+    "*common*": {},
+    "*PLA*": {},
+    "*PET*": {},
+    "*ABS*": {},
+    "Generic PLA @ULTIMAKER2": {},
+    "Generic Black PLA @ULTIMAKER2": {},
+    "Generic PETG @ULTIMAKER2": {},
+    "Generic ABS @ULTIMAKER2": {}
+  },
+  "sla_materials": {}
+}

@@ -1,0 +1,27 @@
+{
+  "vendor": {
+    "undefined": {}
+  },
+  "presets": {
+    "*common*": {},
+    "*0.15mm*": {},
+    "*0.2mm*": {},
+    "0.15mm NORMAL @Papapiu": {},
+    "0.15mm FAST @Papapiu": {},
+    "0.20mm NORMAL @Papapiu": {},
+    "0.20mm FAST @Papapiu": {}
+  },
+  "printers": {
+    "Papapiu_N1S": {},
+    "*common*": {},
+    "*0.4nozzle*": {},
+    "Papapiu N1S": {}
+  },
+  "filaments": {
+    "Generic ABS @Papapiu": {},
+    "Generic PETG @Papapiu": {},
+    "Generic PLA @Papapiu": {},
+    "Generic TPU @Papapiu": {}
+  },
+  "sla_materials": {}
+}

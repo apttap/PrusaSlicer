@@ -1,0 +1,35 @@
+{
+  "vendor": {
+    "undefined": {}
+  },
+  "presets": {
+    "*common*": {},
+    "*0.10mm*": {},
+    "*0.20mm*": {},
+    "*0.30mm*": {},
+    "0.1 Layer - 0,4 Nozzle": {},
+    "0.2 Layer - 0,4 Nozzle": {},
+    "0.2 Layer - 0,4 Nozzle - Speed": {},
+    "0.3 Layer - 0,4 Nozzle": {}
+  },
+  "printers": {
+    "Trimaker Nebula Cloud": {},
+    "Trimaker Cosmos II": {},
+    "Trimaker Nebula ": {},
+    "*0.40nozzle*": {},
+    "*common*": {},
+    "*Trimaker Nebula Cloud*": {},
+    "*Trimaker Nebula*": {},
+    "*Trimaker Cosmos II*": {},
+    "Trimaker Nebula Cloud 0.4 nozzle": {},
+    "Trimaker Nebula  0.4 nozzle": {},
+    "Trimaker Cosmos II 0.4 nozzle": {}
+  },
+  "filaments": {
+    "*common*": {},
+    "*PLA*": {},
+    "Generic PLA @Trimaker Nebula Cloud": {},
+    "Speed PLA @Trimaker Nebula Cloud": {}
+  },
+  "sla_materials": {}
+}

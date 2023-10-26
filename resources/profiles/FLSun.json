@@ -1,0 +1,58 @@
+{
+  "vendor": {
+    "undefined": {}
+  },
+  "presets": {
+    "*common_flsunq*": {},
+    "*QQSP*": {},
+    "*Q5*": {},
+    "*0.6nozzleFLSUN*": {},
+    "*0.08mm_flsunq*": {},
+    "0.08mm DETAIL @FLSUN": {},
+    "*0.15mm_vase_flsunq*": {},
+    "0.15mm VASE @FLSUN": {},
+    "0.15mm VASE SPEED @FLSUN": {},
+    "*0.16mm_flsunq*": {},
+    "0.16mm QUALITY @FLSUN": {},
+    "0.16mm SPEED @FLSUN": {},
+    "0.16mm DETAIL @0.6 nozzle FLSUN": {},
+    "*0.20mm_flsunq*": {},
+    "0.20mm QUALITY @FLSUN": {},
+    "0.20mm DETAIL @0.6 nozzle FLSUN": {},
+    "0.20mm SPEED @FLSUN": {},
+    "*0.24mm_flsunq*": {},
+    "0.24mm DRAFT @FLSUN": {},
+    "*0.30mm_flsunq*": {},
+    "0.30mm QUALITY @0.6 nozzle FLSUN": {},
+    "0.30mm SPEED @FLSUN": {},
+    "*0.35mm_flsunq*": {},
+    "0.35mm SPEED @0.6 nozzle FLSUN": {},
+    "*0.40mm_flsunq*": {},
+    "0.40mm DRAFT @0.6 nozzle FLSUN": {}
+  },
+  "printers": {
+    "QQSP": {},
+    "Q5": {},
+    "*common_flsunq*": {},
+    "FLSun QQS Pro": {},
+    "FLSun QQS Pro 0.6 nozzle": {},
+    "FLSun Q5": {},
+    "FLSun Q5 0.6 nozzle": {}
+  },
+  "filaments": {
+    "*common_flsunq*": {},
+    "*PLA_flsunq*": {},
+    "*PLA_VASE_flsunq*": {},
+    "*SPLA_flsunq*": {},
+    "*PET_flsunq*": {},
+    "*FLEX_flsunq*": {},
+    "*ABS_flsunq*": {},
+    "Generic PLA @FLSUN": {},
+    "Generic PLA VASE @FLSUN": {},
+    "Generic PETG @FLSUN": {},
+    "Generic ABS @FLSUN": {},
+    "Generic FLEX @FLSUN": {},
+    "Generic SPLA @FLSUN": {}
+  },
+  "sla_materials": {}
+}

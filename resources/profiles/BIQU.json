@@ -1,0 +1,43 @@
+{
+  "vendor": {
+    "undefined": {}
+  },
+  "presets": {
+    "*common*": {},
+    "*0.08mm*": {},
+    "*0.10mm*": {},
+    "*0.12mm*": {},
+    "*0.16mm*": {},
+    "*0.20mm*": {},
+    "*0.24mm*": {},
+    "*0.28mm*": {},
+    "*0.32mm*": {},
+    "0.08mm HIGHDETAIL @BIQU": {},
+    "0.10mm HIGHDETAIL @BIQU": {},
+    "0.12mm DETAIL @BIQU": {},
+    "0.16mm OPTIMAL @BIQU": {},
+    "0.20mm NORMAL @BIQU": {},
+    "0.24mm DRAFT @BIQU": {},
+    "0.28mm SUPERDRAFT @BIQU": {}
+  },
+  "printers": {
+    "BIQUBX": {},
+    "*common*": {},
+    "*spriteextruder*": {},
+    "*dualextruder*": {},
+    "*SmallBowden*": {},
+    "*0.4nozzle*": {},
+    "*BIQU BX*": {},
+    "BIQU BX": {}
+  },
+  "filaments": {
+    "*common*": {},
+    "*PLA*": {},
+    "*PET*": {},
+    "*ABS*": {},
+    "Generic PLA @BIQU": {},
+    "Generic PETG @BIQU": {},
+    "Generic ABS @BIQU": {}
+  },
+  "sla_materials": {}
+}

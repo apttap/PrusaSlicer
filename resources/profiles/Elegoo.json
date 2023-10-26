@@ -1,0 +1,60 @@
+{
+  "vendor": {
+    "undefined": {}
+  },
+  "presets": {
+    "*common*": {},
+    "*0.08mm*": {},
+    "*0.10mm*": {},
+    "*0.12mm*": {},
+    "*0.16mm*": {},
+    "*0.20mm*": {},
+    "*0.24mm*": {},
+    "*0.28mm*": {},
+    "0.08mm SUPERDETAIL @ELEGOO": {},
+    "0.10mm HIGHDETAIL @ELEGOO": {},
+    "0.12mm DETAIL @ELEGOO": {},
+    "0.16mm OPTIMAL @ELEGOO": {},
+    "0.20mm NORMAL @ELEGOO": {},
+    "0.24mm DRAFT @ELEGOO": {},
+    "0.28mm SUPERDRAFT @ELEGOO": {}
+  },
+  "printers": {
+    "NEPTUNE1": {},
+    "NEPTUNE2": {},
+    "NEPTUNE2D": {},
+    "NEPTUNE2S": {},
+    "NEPTUNE3": {},
+    "NEPTUNE3MAX": {},
+    "NEPTUNE3PLUS": {},
+    "NEPTUNE3PRO": {},
+    "NEPTUNEX": {},
+    "*common*": {},
+    "Elegoo Neptune-2": {},
+    "*dualextruder*": {},
+    "Elegoo Neptune-2D": {},
+    "Elegoo Neptune-2S": {},
+    "Elegoo Neptune-X": {},
+    "Elegoo Neptune-3": {},
+    "Elegoo Neptune-1": {},
+    "Elegoo Neptune-3 Max": {},
+    "Elegoo Neptune-3 Plus": {},
+    "Elegoo Neptune-3 Pro": {}
+  },
+  "filaments": {
+    "*common*": {},
+    "*PLA*": {},
+    "*PET*": {},
+    "*ABS*": {},
+    "Generic PLA @ELEGOO": {},
+    "Generic PETG @ELEGOO": {},
+    "Generic ABS @ELEGOO": {},
+    "Eolas Prints PLA @ELEGOO": {},
+    "Eolas Prints PLA Matte @ELEGOO": {},
+    "Eolas Prints INGEO 850 @ELEGOO": {},
+    "Eolas Prints INGEO 870 @ELEGOO": {},
+    "Eolas Prints PETG @ELEGOO": {},
+    "Eolas Prints PETG - UV Resistant @ELEGOO": {}
+  },
+  "sla_materials": {}
+}

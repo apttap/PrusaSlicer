@@ -1,0 +1,40 @@
+{
+  "vendor": {
+    "undefined": {}
+  },
+  "presets": {
+    "*common*": {},
+    "*common_minion*": {},
+    "*0.15mm*": {},
+    "*0.2mm*": {},
+    "0.15mm NORMAL @RatRig": {},
+    "0.15mm HF @RatRig": {},
+    "0.20mm NORMAL @RatRig": {},
+    "0.20mm NORMAL V-Minion @RatRig": {},
+    "0.15mm QUALITY V-Minion @RatRig": {},
+    "0.20mm HF @RatRig": {}
+  },
+  "printers": {
+    "VC3_300": {},
+    "VC3_400": {},
+    "VC3_500": {},
+    "VMINION": {},
+    "*common*": {},
+    "*vcore-klipper*": {},
+    "*vminion-klipper*": {},
+    "*0.4nozzle*": {},
+    "RatRig V-Core-3-300": {},
+    "RatRig V-Core-3-400": {},
+    "RatRig V-Core-3-500": {},
+    "RatRig V-Minion-180": {}
+  },
+  "filaments": {
+    "Generic ABS @RatRig": {},
+    "Generic PETG V6 @RatRig": {},
+    "Generic PETG HF @RatRig": {},
+    "Generic PLA @RatRig": {},
+    "Esun ePA-CF @RatRig": {},
+    "Generic TPU @RatRig": {}
+  },
+  "sla_materials": {}
+}

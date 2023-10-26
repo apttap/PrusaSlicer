@@ -1,0 +1,36 @@
+{
+  "vendor": {
+    "undefined": {}
+  },
+  "presets": {
+    "*common*": {},
+    "0.20mm @Zonestar MULTI": {},
+    "0.20mm @Zonestar SINGLE": {}
+  },
+  "printers": {
+    "Z5": {},
+    "Z6": {},
+    "Z5X": {},
+    "Z8": {},
+    "Z9": {},
+    "*common*": {},
+    "Zonestar Z5+M2 HOTEND": {},
+    "Zonestar Z6": {},
+    "Zonestar Z5X": {},
+    "Zonestar Z8+M3 HOTEND": {},
+    "Zonestar Z8+M4 HOTEND": {},
+    "Zonestar Z8+E4 HOTEND": {},
+    "Zonestar Z8+DDE": {},
+    "Zonestar Z9+M3 HOTEND": {},
+    "Zonestar Z9+M4 HOTEND": {},
+    "Zonestar Z9+E4 HOTEND": {},
+    "Zonestar Z9+DDE": {}
+  },
+  "filaments": {
+    "Generic ABS @Zonestar": {},
+    "Generic PETG @Zonestar": {},
+    "Generic PLA @Zonestar": {},
+    "Generic TPU @Zonestar": {}
+  },
+  "sla_materials": {}
+}

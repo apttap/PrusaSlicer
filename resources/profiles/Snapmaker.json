@@ -1,0 +1,35 @@
+{
+  "vendor": {
+    "undefined": {}
+  },
+  "presets": {
+    "*common*": {},
+    "0.10mm HIGHDETAIL @SnapmakerA350": {},
+    "0.16mm OPTIMAL @SnapmakerA350": {},
+    "0.20mm NORMAL @SnapmakerA350": {},
+    "0.20mm FAST @SnapmakerA350": {},
+    "0.08mm DETAIL @SnapmakerA250": {},
+    "0.20mm NORMAL @SnapmakerA250": {},
+    "0.24mm FAST @SnapmakerA250": {}
+  },
+  "printers": {
+    "A250": {},
+    "A350": {},
+    "*common*": {},
+    "Snapmaker A350": {},
+    "Snapmaker A250": {}
+  },
+  "filaments": {
+    "*common*": {},
+    "*PLA*": {},
+    "*PETG*": {},
+    "Generic PLA @Snapmaker": {},
+    "Generic PETG @Snapmaker": {},
+    "Snapmaker PLA @Snapmaker": {},
+    "Overture PLA @Snapmaker": {},
+    "MatterHackers Build Translucent @Snapmaker": {},
+    "MatterHackers Build White @Snapmaker": {},
+    "Overture TPU @Snapmaker": {}
+  },
+  "sla_materials": {}
+}

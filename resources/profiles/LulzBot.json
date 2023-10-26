@@ -1,0 +1,24 @@
+{
+  "vendor": {
+    "undefined": {}
+  },
+  "presets": {
+    "*common*": {},
+    "0.14mm DETAIL @lulzbot": {},
+    "0.25mm STANDARD @lulzbot": {},
+    "0.30mm SPEED @lulzbot": {}
+  },
+  "printers": {
+    "MINI_AERO": {},
+    "TAZ6_AERO": {},
+    "Mini Aero 0.5mm": {},
+    "Taz6 Aero 0.5mm": {}
+  },
+  "filaments": {
+    "ColorFabb PLA-PHA @lulzbot": {},
+    "Jessie PLA @lulzbot": {},
+    "Generic PLA @lulzbot": {},
+    "Generic PETG @lulzbot": {}
+  },
+  "sla_materials": {}
+}

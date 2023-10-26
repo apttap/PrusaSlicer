@@ -1,0 +1,23 @@
+{
+  "vendor": {
+    "undefined": {}
+  },
+  "presets": {
+    "*common*": {},
+    "Cocoa Press (0.5mm layerheight)": {},
+    "Cocoa Press (1.0mm layerheight)": {}
+  },
+  "printers": {
+    "Cocoa_Press": {},
+    "*0.8mm*": {},
+    "*1.6mm*": {},
+    "Cocoa Press｜0.8mm": {},
+    "Cocoa Press｜1.6mm": {},
+    "*common*": {}
+  },
+  "filaments": {
+    "*common*": {},
+    "Cocoa Press Chocolates": {}
+  },
+  "sla_materials": {}
+}

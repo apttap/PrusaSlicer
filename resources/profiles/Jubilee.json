@@ -1,0 +1,29 @@
+{
+  "vendor": {
+    "undefined": {}
+  },
+  "presets": {
+    "*common*": {},
+    "0.2mm V6, aesthetic @Jubilee": {},
+    "0.2mm V6, functional @Jubilee": {},
+    "0.2mm Volcano, aesthetic @Jubilee": {},
+    "0.2mm Volcano, functional @Jubilee": {}
+  },
+  "printers": {
+    "Jubilee": {},
+    "*common*": {},
+    "Jubilee Volcano 0.4mm": {}
+  },
+  "filaments": {
+    "*common*": {},
+    "*PLA*": {},
+    "Generic PLA @Jubilee": {},
+    "Hatchbox PLA @Jubilee": {},
+    "Generic PETG @Jubilee": {},
+    " Proto-pasta HTPLA @Jubilee": {},
+    "Prusa PLA @Jubilee": {},
+    "Solutech PLA @Jubilee": {},
+    "Verbatim BVOH @Jubilee": {}
+  },
+  "sla_materials": {}
+}

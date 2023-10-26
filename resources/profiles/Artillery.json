@@ -1,0 +1,58 @@
+{
+  "vendor": {
+    "undefined": {}
+  },
+  "presets": {
+    "*common*": {},
+    "*0.08mm*": {},
+    "*0.10mm*": {},
+    "*0.12mm*": {},
+    "*0.16mm*": {},
+    "*0.20mm*": {},
+    "*0.24mm*": {},
+    "*0.28mm*": {},
+    "0.08mm SUPERDETAIL @Artillery": {},
+    "0.10mm HIGHDETAIL @Artillery": {},
+    "0.12mm DETAIL @Artillery": {},
+    "0.16mm OPTIMAL @Artillery": {},
+    "0.20mm SLOW @Artillery": {},
+    "0.20mm NORMAL @Artillery": {},
+    "0.20mm SPEED @Artillery": {},
+    "0.24mm DRAFT @Artillery": {},
+    "0.28mm SUPERDRAFT @Artillery": {}
+  },
+  "printers": {
+    "X1": {},
+    "Genius": {},
+    "Hornet": {},
+    "*common*": {},
+    "*common_STOCK_FW*": {},
+    "*common_UPD_FW*": {},
+    "*bowden*": {},
+    "*0.4nozzle*": {},
+    "Artillery Sidewinder X1": {},
+    "Artillery Sidewinder X1 BL-TOUCH": {},
+    "Artillery Genius": {},
+    "Artillery Genius BL-TOUCH": {},
+    "Artillery Hornet": {}
+  },
+  "filaments": {
+    "*common*": {},
+    "*PLA*": {},
+    "*PET*": {},
+    "*ABS*": {},
+    "*TPU*": {},
+    "Generic PLA @Artillery": {},
+    "Generic PETG @Artillery": {},
+    "Generic ABS @Artillery": {},
+    "Generic TPU @Artillery": {},
+    "Eolas Prints PLA @Artillery": {},
+    "Eolas Prints PLA Matte @Artillery": {},
+    "Eolas Prints INGEO 850 @Artillery": {},
+    "Eolas Prints INGEO 870 @Artillery": {},
+    "Eolas Prints PETG @Artillery": {},
+    "Eolas Prints PETG - UV Resistant @Artillery": {},
+    "Eolas Prints TPU 93A @Artillery": {}
+  },
+  "sla_materials": {}
+}
