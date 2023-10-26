@@ -75,22 +75,6 @@ const writeToFile = (category, profile, json, mfg) => {
       fs.writeFileSync(path.join(directory, `${newProfile}.json`), JSON.stringify(json, null, 2));
     }
   }
-
-  // // this establishes the base directory for the vendor and the category of the profile
-  // const baseDirectory = `../../profiles/${vendor}/${category}`;
-
-  // // this establishes the directory for the specific profile
-  // // if it's a common profile, it will be in the common directory
-  // // otherwise it should be in a directory named for the specific printer
-  // // TODO: this probably isn't right.
-  // const printerIdentifier = "common"; //profile.split(':')[1].trim();
-  // const isCommon = true;
-
-  // const directory = isCommon ? path.join(baseDirectory, 'common') : path.join(baseDirectory, printerIdentifier);
-
-  // const fileName = path.join(directory, path.basename(file, '.ini') + '.json');
-
-  // fs.writeFileSync(fileName, JSON.stringify(json, null, 2));
 };
 
 // convert .ini to jsoncd co
@@ -140,10 +124,6 @@ const iniToJson = (file) => {
               result[key] = parseBedShape(stringValue);
             } else if (isGcodeValue(key)) {
               result[key] = parseGcodeString(parseStringValue(stringValue));
-              // if (currentCategory === 'filament') {
-              //   console.log(stringValue);
-              //   console.log(result[key])
-              // }
             } else if (key === 'inherits') {
               result[key] = stringValue.split(';').map((profile) => {
                 let newProfile = commonIdentifierToValenceIdentifier(profile.trim(), currentCategory, mfg);
